@@ -1,0 +1,9 @@
+/*Style*/
+div {
+    background-color: aquamarine;
+    border: 3px black solid;
+}
+
+button {
+    position: center;
+}
